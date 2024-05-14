@@ -1,6 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import { Component } from 'react';
 
+class App extends Component {
+  render() {
+    return <h1>oi, utilizando class no React</h1>
+  }
+}
+
+/* 
 function App() {
   return (
     <div className="App">
@@ -20,6 +28,6 @@ function App() {
       </header>
     </div>
   );
-}
+} */
 
 export default App;
