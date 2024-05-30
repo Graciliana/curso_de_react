@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Ada Lovelace",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg",
+    "description": "Considerada a primeira programadora de computadores, Ada Lovelace escreveu o primeiro algoritmo destinado a ser processado por uma máquina, o motor analítico de Charles Babbage."
+  },
+  {
+    "name": "Grace Hopper",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Grace_Hopper.jpg",
+    "description": "Pioneira da programação de computadores, Grace Hopper desenvolveu o primeiro compilador e foi uma figura central no desenvolvimento da linguagem COBOL."
+  },
+  {
+    "name": "Katherine Johnson",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Katherine_Johnson_1983.jpg",
+    "description": "Matemática e cientista espacial, Katherine Johnson foi crucial para o sucesso das missões espaciais da NASA, incluindo a missão Apollo 11 que levou o homem à Lua."
+  },
+  {
+    "name": "Hedy Lamarr",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Hedy_Lamarr_-_1940.jpg",
+    "description": "Além de ser uma famosa atriz de Hollywood, Hedy Lamarr foi uma inventora que co-desenvolveu uma técnica de espectro de salto de frequência que é a base para tecnologias como Wi-Fi e Bluetooth."
+  },
+  {
+    "name": "Margaret Hamilton",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Margaret_Hamilton_1995.jpg",
+    "description": "Engenheira de software que liderou a equipe responsável pelo desenvolvimento do software de voo da Apollo, crucial para o sucesso da aterrissagem lunar."
+  },
+  {
+    "name": "Radia Perlman",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Radia_Perlman_2013.jpg",
+    "description": "Cientista da computação conhecida como a 'mãe da internet', Radia Perlman inventou o protocolo Spanning Tree, fundamental para o funcionamento das redes de computadores."
+  },
+  {
+    "name": "Mary Jackson",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mary_Jackson_%28Schaalbaach%29.jpg",
+    "description": "Engenheira aeroespacial da NASA, Mary Jackson foi uma das primeiras engenheiras negras da agência e contribuiu significativamente para os programas espaciais americanos."
+  },
+  {
+    "name": "Annie Easley",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Annie_Easley_in_front_of_computer_bank_%28NASA%29.jpg",
+    "description": "Cientista da computação e engenheira da NASA, Annie Easley trabalhou em projetos como o Centaur, um foguete de estágio superior que se tornou crucial para a exploração espacial."
+  },
+  {
+    "name": "Mae Jemison",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mae_Jemison_in_Space_Lab_uniform.jpg",
+    "description": "Engenheira, médica e astronauta da NASA, Mae Jemison foi a primeira mulher negra a viajar para o espaço a bordo do Endeavour em 1992."
+  },
+  {
+    "name": "Valerie Thomas",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Valerie_Thomas.jpg",
+    "description": "Cientista da NASA e inventora, Valerie Thomas desenvolveu a tecnologia para imagens tridimensionais (holografia) que ainda é utilizada em diversas áreas."
+  },
+  {
+    "name": "Dr. Gladys West",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Gladys_West_2018.jpg",
+    "description": "Matemática cuja modelagem matemática e trabalho com satélites foram essenciais para o desenvolvimento do Sistema de Posicionamento Global (GPS)."
+  },
+
+  {
+    "name": "Aprille Ericsson-Jackson",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Aprille_Ericsson.jpg",
+    "description": "Engenheira aeroespacial da NASA, Aprille Ericsson-Jackson foi a primeira mulher negra a obter um Ph.D. em Engenharia Mecânica pelo Howard University e contribuiu significativamente para o desenvolvimento de sistemas de controle de espaçonaves."
+  },
+  
+  {
+    "name": "Dorothy Vaughan",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Dorothy_Vaughan_%28mathematician%29.jpg",
+    "description": "Matemática e programadora que trabalhou na NASA, Dorothy Vaughan foi a primeira supervisora negra e uma das primeiras programadoras da agência, contribuindo para a transição para a computação digital."
+  },
+  {
+    "name": "Dr. Gladys West",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Gladys_West_2018.jpg",
+    "description": "Matemática cuja modelagem matemática e trabalho com satélites foram essenciais para o desenvolvimento do Sistema de Posicionamento Global (GPS)."
+  }
+  
+]
