@@ -1,15 +1,11 @@
 
 import './App.css';
 import { Component } from 'react';
-
+import { PostCard } from './components/PostCard';
 class App extends Component {
   state = {
-   
     posts: [],
-    photos:[]
   };
-  
-
   componentDidMount() {
     this.loadPosts();
     
@@ -20,12 +16,9 @@ class App extends Component {
     const [posts, photos] = await Promise.all([postsResponse, photosResponse]);
     const postsJson = await posts.json();
     const photosJson = await photos.json();
-
     const postsAndPhotos = postsJson.map((post, index) => {
       return { ...post, cover: photosJson[index].url }
     });
-
-
     this.setState({ posts: postsAndPhotos });
   }
 
@@ -35,17 +28,17 @@ class App extends Component {
       <section className='container'>
         <div className='posts'>
           {posts.map(post => (
-            <div className='post'>
-              <img src={post.cover} alt={post.title} />
-              <div key={post.id} className='post-content'>
-           <h1>{post.title}</h1>
-           <p>{post.body}</p>
-              </div>
-              </div>
-          ))}      
-     </div>
+            <PostCard
+              key={post.id}
+              title={post.title}
+              body={post.body}
+              id={post.id}
+              cover={post.cover}
+            />
+          ))}
+        </div>
       </section>
-    )
+    );
   }
 }
 export default App;
